@@ -1,7 +1,5 @@
 # Teaching Web Design
 
-Web design taught over weekly session (each session approx 2 hours)
-
 ## Week 1: Building Blocks of HTML
 HTML vs XHTML
 Rules & Syntax: tags, elements and attributes
