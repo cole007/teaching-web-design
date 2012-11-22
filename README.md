@@ -1,8 +1,8 @@
 # Teaching Web Design
 
-This repository is to provide the stating point and ongoing resource/notes from a one-to-one course am running to teach the basics skills of web design over 10 weeks.
+This repository is to provide the stating point and ongoing resources/notes for a one-to-one course am running teaching the basic skills of web design.
 
-Each session approximately 2 hours.
+Course is broken down to 10 weekly sessions, each session lasting approximately 2 hours.
 
 ## Week 1: Building Blocks of HTML
 HTML vs XHTML
